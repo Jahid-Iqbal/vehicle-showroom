@@ -1,0 +1,2 @@
+# compile and execute the main program
+mvn compile exec:java
